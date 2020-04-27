@@ -8,7 +8,6 @@ Improve your visual memory with the classic maze simulator. Find the way out! ðŸ
 
 ![Image](dnhnd.github.io/maze/E7Cn9DevEAts_1024_500.png)
 
-```markdown
 This game is a classic maze simulator that will help to train your visual memory. Moreover, with all the modes available it's very fun to play. You can customize the game as you like more. ðŸš€
 
 Key features:
@@ -21,6 +20,11 @@ Key features:
 You can download this game from [Google Play](https://play.google.com/store/apps/details?id=com.dnhnd.maze) at any time.
 
 Use [this link](https://dnhnd.github.io/maze/privacy.html) to review the privacy policy.
+
+```markdown
+if (isGameAwesome) {
+  rating =5;
+}
 ```
 
 ### Support or Contact
