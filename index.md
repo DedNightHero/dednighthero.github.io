@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to the DNHND webpage
 
-You can use the [editor on GitHub](https://github.com/DNHND/dnhnd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This web page shows my efforts on the way of becoming a game designer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Maze puzzle
 
-### Markdown
+Improve your visual memory with the classic maze simulator. Find the way out! 🎯
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](dnhnd.github.io/maze/E7Cn9DevEAts_1024_500.png)
 
 ```markdown
-Syntax highlighted code block
+This game is a classic maze simulator that will help to train your visual memory. Moreover, with all the modes available it's very fun to play. You can customize the game as you like more. 🚀
 
-# Header 1
-## Header 2
-### Header 3
+Key features:
+1. Unlimited number of levels
+2. Different skins
+3.Three types of boosters
+4. Four difficulty levels
+5. Lot's of different modes
 
-- Bulleted
-- List
+You can download this game from [Google Play](https://play.google.com/store/apps/details?id=com.dnhnd.maze) at any time.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Use [this link](https://dnhnd.github.io/maze/privacy.html) to review the privacy policy.
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DNHND/dnhnd.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with our apps? [contact support](mailto:dev.dnhnd@gmail.com) and we’ll help you sort it out.
