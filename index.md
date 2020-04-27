@@ -23,7 +23,7 @@ Use [this link](https://dnhnd.github.io/maze/privacy.html) to review the privacy
 
 ```markdown
 if (isGameAwesome) {
-  rating =5;
+  storeRating = 5;
 }
 ```
 
