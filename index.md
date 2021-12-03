@@ -7,7 +7,7 @@ This web page shows my efforts on the way of becoming myself.
 
 Bubble Shooter is a match 3 game with attractive graphics and addictive gameplay
 
-![Image](https://dmitriifeshchenko.github.io/monstershooter/feature_graphic.png)
+![Image](https://dmitriifeshchenko.github.io/monsterhunter/feature_graphic.png)
 
 Well-Known Mechanics:
 1. Tap to aim and release to shoot the selected bubble 🏹
@@ -19,9 +19,9 @@ Key Features:
 3. Catchy graphics and audio 🙈
 4. Lots of levels available 🔥
 
-You can download this game on [Google Play](https://play.google.com/store/apps/details?id=com.dnhnd.monstershooter) at any time.
+You can download this game on [Google Play](https://play.google.com/store/apps/details?id=com.dnhnd.monsterhunter) at any time.
 
-Use [this link](https://dmitriifeshchenko.github.io/monstershooter/privacy.html) to review the privacy policy.
+Use [this link](https://dmitriifeshchenko.github.io/monsterhunter/privacy.html) to review the privacy policy.
 
 
 ### Maze puzzle
