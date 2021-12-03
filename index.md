@@ -10,13 +10,14 @@ Bubble Shooter is a match 3 game with attractive graphics and addictive gameplay
 ![Image](dmitriifeshchenko.github.io/monstershooter/feature_graphic.png)
 
 Well-Known Mechanics:
-    🏹 Tap to aim and release to shoot the selected bubble
-    💥 Match 3 or more bubbles to clear them all
+1. Tap to aim and release to shoot the selected bubble 🏹
+2. Match 3 or more bubbles to clear them all 💥
+
 Key Features:
-    🎮 Really addictive gameplay
-    🚀 Truly useful boosters
-    🙈 Catchy graphics and audio
-    🔥 Lots of levels available
+1. Really addictive gameplay 🎮
+2. Truly useful boosters 🚀
+3. Catchy graphics and audio 🙈
+4. Lots of levels available 🔥
 
 You can download this game on [Google Play](https://play.google.com/store/apps/details?id=com.dnhnd.monstershooter) at any time.
 
