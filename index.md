@@ -7,8 +7,8 @@ This web page shows my efforts on the way of becoming myself.
 
 Bubble Shooter is a match 3 game with attractive graphics and addictive gameplay
 
-![Image](https://dmitriifeshchenko.github.io/monsterhunter/feature_graphic.png)
 [<img src="https://dmitriifeshchenko.github.io/monsterhunter/feature_graphic.png">](https://play.google.com/store/apps/details?id=com.dnhnd.monsterhunter)
+
 Well-Known Mechanics:
 1. Tap to aim and release to shoot the selected bubble 🏹
 2. Match 3 or more bubbles to clear them all 💥
@@ -28,7 +28,8 @@ Use [this link](https://dmitriifeshchenko.github.io/monsterhunter/privacy.html) 
 
 Improve your visual memory with the classic maze simulator. Find the way out! 🎯
 
-![Image](https://dmitriifeshchenko.github.io/maze/E7Cn9DevEAts_1024_500.png)
+
+[<img src="https://dmitriifeshchenko.github.io/maze/E7Cn9DevEAts_1024_500.png">](https://play.google.com/store/apps/details?id=com.dnhnd.maze)
 
 This game is a classic maze simulator that will help to train your visual memory. Moreover, with all the modes available it's very fun to play. You can customize the game as you like more. 🚀
 
