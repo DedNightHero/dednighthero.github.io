@@ -20,7 +20,7 @@ Key Features:
 
 You can download this game on [Google Play](https://play.google.com/store/apps/details?id=com.dnhnd.monstershooter) at any time.
 
-Use [this link](https://dnhnd.github.io/maze/privacy.html) to review the privacy policy.
+Use [this link](https://dnhnd.github.io/monsterhunter/privacy.html) to review the privacy policy.
 
 ```markdown
 if (isGameAwesome) {
