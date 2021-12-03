@@ -21,13 +21,8 @@ Key Features:
 
 You can download this game on [Google Play](https://play.google.com/store/apps/details?id=com.dnhnd.monstershooter) at any time.
 
-Use [this link](https://dmitriifeshchenko.github.io/monsterhunter/privacy.html) to review the privacy policy.
+Use [this link](https://dmitriifeshchenko.github.io/monstershooter/privacy.html) to review the privacy policy.
 
-```markdown
-if (isGameAwesome) {
-  storeRating = 5;
-}
-```
 
 ### Maze puzzle
 
@@ -48,11 +43,6 @@ You can download this game on [Google Play](https://play.google.com/store/apps/d
 
 Use [this link](https://dmitriifeshchenko.github.io/maze/privacy.html) to review the privacy policy.
 
-```markdown
-if (isGameAwesome) {
-  storeRating = 5;
-}
-```
 
 ### Support or Contact
 
