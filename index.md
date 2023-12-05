@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Welcome to the PocketNumbers Studio website!
+
 ## Our Titles
 
 ### King of Numbers 2048
