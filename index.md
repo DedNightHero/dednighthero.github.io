@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Our Titles
 
 ### King of Numbers 2048
