@@ -6,7 +6,7 @@ bidmachine.io, 235117, DIRECT
 #AdMob
 google.com, pub-7600792684276223, DIRECT, f08c47fec0942fa0
 #Meta-Audience
-facebook.com,3693932144198886,RESELLER,c3e20eee3f780d68
+facebook.com,2742675762662532,RESELLER,c3e20eee3f780d68
 #Resellers
 152media.info,152M5,RESELLER
 9dotsmedia.com,122262,RESELLER,45ff185b4c4e857d
