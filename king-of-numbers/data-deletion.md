@@ -22,7 +22,8 @@ all other applicable ethics and privacy laws;
 If you want to delete the information we have collected from you (and direct our service providers to do the same) you need
 to send us an email with a request to delete it. To email us, use the "Сontact us" form in the application provided or
 supported by us and used by you. "Сontact us" form is located in the application settings dialog. If there is no such form or
-you do not have an opportunity to use it, then you can always email us at pocketnumbers.help@gmail.com; applications are considered
-within 72 hours from the moment of receipt.
+you do not have an opportunity to use it, then you can always email us at
+[pocketnumbers.help@gmail.com](mailto:pocketnumbers.help@gmail.com?subject=[GitHub]%20Data%20Deletion%20Request);
+applications are considered within 72 hours from the moment of receipt.
 
 [Back to Home Page](../)
