@@ -1,10 +1,8 @@
 ---
 layout: default
-title: King Of Numbers 2048
+title: King of Numbers 2048
 description: Data Deletion Instructions
 ---
-
-## Welcome to the data deletion page
 
 You have the right to request that we delete the information we have collected from you (and direct our service providers
 to do the same) See [Privacy Policy](privacy.html). There are a number of exceptions, however, that include, but are not
@@ -27,4 +25,4 @@ supported by us and used by you. "Сontact us" form is located in the applicatio
 you do not have an opportunity to use it, then you can always email us at pocketnumbers.help@gmail.com; applications are considered
 within 72 hours from the moment of receipt.
 
-[Back to Home Page](./)
+[Back to Home Page](../)
