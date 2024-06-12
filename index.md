@@ -6,6 +6,35 @@ Welcome to the PocketNumbers Studio website!
 
 ## Our Titles
 
+### Royal Spades
+
+♠️ Spades is known to be an addictive card game in which players must declare the number of tricks they expect to win in a game. ♠️
+
+[<img src="https://dmitriifeshchenko.github.io/royal-spades/feature_graphic.png">](https://play.google.com/store/apps/details?id=com.pocketnumbers.royalspades)
+
+Tips & Tricks:
+- It’s a standard 52-card pack in which the spades card is always the trump.
+- If you’re a beginner, take a look at what your opponents are doing and how they’re bidding.
+- Find the Rules in our Spades app settings and read them before starting to select your bid and play.
+- Change the cards animation to “slow” from the same app settings, it may help you keep track of your opponents moves more easily.
+- Practice makes perfect, so return to this classic Spades app often and keep playing to gain experience and master this online card game like a pro!
+
+Key Features:
+1. 100% Free cards game playing online or offline 🤩
+2. A trick-taking spades game that’s easy to play and to learn 🤩
+3. Learning and testing your classic spades playing skills against skilled AI opponents 🤩
+4. Beautiful game themes and card styles that will enhance your spades game experience 🤩
+5. Simple, clean and clear, user-friendly interface, a cool online rendering of the tabletop, offline gaming experience 🤩
+6. Smooth gameplay, without the useless game add-ons, with no annoying ads - just authentic Spades 🤩
+7. The addictive, fun, challenging online card game you’ll want to recur to whenever stress hits 🤩
+
+You can download this game on [Google Play](https://play.google.com/store/apps/details?id=com.pocketnumbers.royalspades)
+or [App Store](https://apps.apple.com/us/app/royal-spades-card-game-2024/id6504277218?ls=1) at any time.
+
+Use [this link](https://dmitriifeshchenko.github.io/royal-spades/privacy.html) to review the privacy policy.
+
+* * *
+
 ### King of Numbers 2048
 
 Exercise your brain with number block puzzles: merge 2048 bricks and x2 blocks!
@@ -24,7 +53,7 @@ Key Features:
 4. Leaderboard ✅
 5. No time constraints ✅
 
-You can download this game on [Google Play](https://play.google.com/store/apps/details?id=com.pocketnumbers.king.android) 
+You can download this game on [Google Play](https://play.google.com/store/apps/details?id=com.pocketnumbers.king.android)
 or [App Store](https://apps.apple.com/us/app/king-of-numbers-2048/id6473016871?ls=1) at any time.
 
 Use [this link](https://dmitriifeshchenko.github.io/king-of-numbers/privacy.html) to review the privacy policy.
