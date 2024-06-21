@@ -31,7 +31,7 @@ Key Features:
 You can download this game on [Google Play](https://play.google.com/store/apps/details?id=com.pocketnumbers.royalspades)
 or [App Store](https://apps.apple.com/us/app/royal-spades-card-game-2024/id6504277218?ls=1) at any time.
 
-Use [this link](https://dmitriifeshchenko.github.io/royal-spades/privacy.html) to review the privacy policy.
+Use [this link](./royal-spades/privacy.html) to review the privacy policy.
 
 * * *
 
@@ -39,7 +39,7 @@ Use [this link](https://dmitriifeshchenko.github.io/royal-spades/privacy.html) t
 
 Exercise your brain with number block puzzles: merge 2048 bricks and x2 blocks!
 
-[<img src="https://dmitriifeshchenko.github.io/king-of-numbers/feature_graphic.jpg">](https://play.google.com/store/apps/details?id=com.pocketnumbers.king.android)
+[<img src="./king-of-numbers/feature_graphic.jpg">](https://play.google.com/store/apps/details?id=com.pocketnumbers.king.android)
 
 How To Play:
 - Tap the screen and shoot number blocks in their chronological order of appearance
@@ -56,7 +56,7 @@ Key Features:
 You can download this game on [Google Play](https://play.google.com/store/apps/details?id=com.pocketnumbers.king.android)
 or [App Store](https://apps.apple.com/us/app/king-of-numbers-2048/id6473016871?ls=1) at any time.
 
-Use [this link](https://dmitriifeshchenko.github.io/king-of-numbers/privacy.html) to review the privacy policy.
+Use [this link](./king-of-numbers/privacy.html) to review the privacy policy.
 
 * * *
 
@@ -64,7 +64,7 @@ Use [this link](https://dmitriifeshchenko.github.io/king-of-numbers/privacy.html
 
 Bubble Shooter is a match 3 game with attractive graphics and addictive gameplay
 
-[<img src="https://dmitriifeshchenko.github.io/monsterhunter/feature_graphic.png">](https://play.google.com/store/apps/details?id=com.dnhnd.monsterhunter)
+[<img src="./monsterhunter/feature_graphic.png">](https://play.google.com/store/apps/details?id=com.dnhnd.monsterhunter)
 
 Well-Known Mechanics:
 1. Tap to aim and release to shoot the selected bubble 🏹
@@ -78,7 +78,7 @@ Key Features:
 
 You can download this game on [Google Play](https://play.google.com/store/apps/details?id=com.dnhnd.monsterhunter) at any time.
 
-Use [this link](https://dmitriifeshchenko.github.io/monsterhunter/privacy.html) to review the privacy policy.
+Use [this link](./monsterhunter/privacy.html) to review the privacy policy.
 
 * * *
 
@@ -86,7 +86,7 @@ Use [this link](https://dmitriifeshchenko.github.io/monsterhunter/privacy.html) 
 
 Improve your visual memory with the classic maze simulator. Find the way out! 🎯
 
-[<img src="https://dmitriifeshchenko.github.io/maze/E7Cn9DevEAts_1024_500.png">](https://play.google.com/store/apps/details?id=com.dnhnd.maze)
+[<img src="./maze/E7Cn9DevEAts_1024_500.png">](https://play.google.com/store/apps/details?id=com.dnhnd.maze)
 
 This game is a classic maze simulator that will help to train your visual memory. Moreover, with all the modes available it's very fun to play. You can customize the game as you like more. 🚀
 
@@ -99,7 +99,7 @@ Key Features:
 
 You can download this game on [Google Play](https://play.google.com/store/apps/details?id=com.dnhnd.maze) at any time.
 
-Use [this link](https://dmitriifeshchenko.github.io/maze/privacy.html) to review the privacy policy.
+Use [this link](./maze/privacy.html) to review the privacy policy.
 
 * * *
 
