@@ -10,7 +10,7 @@ Welcome to the PocketNumbers Studio website!
 
 ♠️ Spades is known to be an addictive card game in which players must declare the number of tricks they expect to win in a game. ♠️
 
-[<img src="https://dmitriifeshchenko.github.io/royal-spades/feature_graphic.png">](https://play.google.com/store/apps/details?id=com.pocketnumbers.royalspades)
+[<img src="./royal-spades/feature_graphic.png">](https://play.google.com/store/apps/details?id=com.pocketnumbers.royalspades)
 
 Tips & Tricks:
 - It’s a standard 52-card pack in which the spades card is always the trump.
