@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Royal Spades
+title: Spades Kingdom
 description: Data Deletion Instructions
 ---
 

@@ -6,11 +6,11 @@ Welcome to the PocketNumbers Studio website!
 
 ## Our Titles
 
-### Royal Spades
+### Spades Kingdom
 
 ♠️ Spades is known to be an addictive card game in which players must declare the number of tricks they expect to win in a game. ♠️
 
-[<img src="./royal-spades/feature_graphic.png">](https://play.google.com/store/apps/details?id=com.pocketnumbers.royalspades)
+[<img src="./spades-kingdom/feature_graphic.png">](https://play.google.com/store/apps/details?id=com.pocketnumbers.spadeskingdom)
 
 Tips & Tricks:
 - It’s a standard 52-card pack in which the spades card is always the trump.
@@ -28,10 +28,10 @@ Key Features:
 6. Smooth gameplay, without the useless game add-ons, with no annoying ads - just authentic Spades 🤩
 7. The addictive, fun, challenging online card game you’ll want to recur to whenever stress hits 🤩
 
-You can download this game on [Google Play](https://play.google.com/store/apps/details?id=com.pocketnumbers.royalspades)
+You can download this game on [Google Play](https://play.google.com/store/apps/details?id=com.pocketnumbers.spadeskingdom)
 or [App Store](https://apps.apple.com/us/app/royal-spades-card-game-2024/id6504277218?ls=1) at any time.
 
-Use [this link](./royal-spades/privacy.html) to review the privacy policy.
+Use [this link](./spades-kingdom/privacy.html) to review the privacy policy.
 
 * * *
 
